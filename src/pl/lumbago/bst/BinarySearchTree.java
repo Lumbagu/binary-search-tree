@@ -1,7 +1,5 @@
 package pl.lumbago.bst;
 
-import java.util.ArrayList;
-
 public class BinarySearchTree {
   private BinarySearchTreeNode treeRoot;
 
